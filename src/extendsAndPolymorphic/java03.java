@@ -16,12 +16,13 @@ public class java03 {
 
 class superClass {
 
-int age;
+
     /**
      * a function
      * @param name 姓名
      */
     public String name ;
+    public int ag;
 
 }
 
