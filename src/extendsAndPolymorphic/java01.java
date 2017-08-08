@@ -31,7 +31,7 @@ class student extends  school {
     }
 }
 
-
+//测试emoji
 class food {
     public String getFood () {
         return "吃的";

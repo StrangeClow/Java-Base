@@ -8,7 +8,7 @@ public class java02 {
         int a= 100;
         System.out.println(a);
 
-
+        //注释 
 
         char b = 'b';
         int c = b + 2;

@@ -11,11 +11,11 @@ public class java01 {
 
 
     void study() {
-        System.out.println("我喜欢学习！");
+        System.out.println("i like study！");
     }
 
     void hungry () {
-        System.out.println("我有点饿了");
+        System.out.println("我有点饿l");
     }
 
     public static void main(String[] args) {
