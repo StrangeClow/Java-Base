@@ -11,7 +11,7 @@ public class java01 {
 
 
     void study() {
-        System.out.println("我喜欢学习！");
+        System.out.println("i like study！");
     }
 
     void hungry () {
