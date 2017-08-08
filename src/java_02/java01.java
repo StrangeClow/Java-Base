@@ -15,7 +15,7 @@ public class java01 {
     }
 
     void hungry () {
-        System.out.println("我有点饿");
+        System.out.println("我有点饿l");
     }
 
     public static void main(String[] args) {
