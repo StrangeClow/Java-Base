@@ -17,7 +17,7 @@ public class java03 {
 
         }
         student s = new student();
-        s.name = "赵应祥 change you";
+        s.name = "赵应祥 change you emoji";
         s.age = 18;
         s.scroe =100;
         s.say();
