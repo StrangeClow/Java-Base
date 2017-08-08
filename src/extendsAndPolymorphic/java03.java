@@ -26,6 +26,8 @@ class superClass {
 
 }
 
+//子类继承父类
+
  class sonClass extends superClass {
 
  }
