@@ -13,7 +13,7 @@ package extendsAndPolymorphic;
             age++;
         }
     }
-
+//内部类外部类
     public static void main(String[] args) {
         java_Object o =new java_Object();
         inner i =o.new inner();
