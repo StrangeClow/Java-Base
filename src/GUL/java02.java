@@ -10,6 +10,7 @@ import java.awt.event.*;
  * GUi面板的使用
  * @description http://www.weixueyuan.net/view/6057.html    17行报错
  */
+/*
 public class java02 {
     public static MyWindowDemo mw1;
     public static MyWindowDemo mw2;
@@ -34,3 +35,4 @@ class MyWindowDemo extends JFrame {
         con.setBackground(c);
     }
 }
+*/

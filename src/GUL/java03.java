@@ -33,4 +33,4 @@ public class java03 {
       //  c.setLayout(New FlowLayout());
 
     }
-}
+//}
