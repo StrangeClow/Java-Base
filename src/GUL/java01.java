@@ -5,6 +5,7 @@ import javax.swing.*;
 /**
  * User: zyx
  * Date: 2017/8/17 14:14
+ * gui相关
  */
 public class java01 {
     public static void main(String[] args) {
